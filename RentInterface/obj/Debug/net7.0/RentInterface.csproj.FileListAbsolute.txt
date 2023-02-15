@@ -1,0 +1,15 @@
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\bin\Debug\net7.0\RentInterface.exe
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\bin\Debug\net7.0\RentInterface.deps.json
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\bin\Debug\net7.0\RentInterface.runtimeconfig.json
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\bin\Debug\net7.0\RentInterface.dll
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\bin\Debug\net7.0\RentInterface.pdb
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\obj\Debug\net7.0\RentInterface.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\obj\Debug\net7.0\RentInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\obj\Debug\net7.0\RentInterface.AssemblyInfoInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\obj\Debug\net7.0\RentInterface.AssemblyInfo.cs
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\obj\Debug\net7.0\RentInterface.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\obj\Debug\net7.0\RentInterface.dll
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\obj\Debug\net7.0\refint\RentInterface.dll
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\obj\Debug\net7.0\RentInterface.pdb
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\obj\Debug\net7.0\RentInterface.genruntimeconfig.cache
+C:\Users\EDUARDO\Documents\C# Programming\RentInterface\RentInterface\obj\Debug\net7.0\ref\RentInterface.dll
